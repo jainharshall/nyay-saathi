@@ -1,0 +1,6 @@
+{
+  "name": "NyayaSaathi AI",
+  "description": "Comprehensive AI legal assistant for Indian law research, drafting, and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Legal Research", "Drafting", "Document Analysis"]
+}
